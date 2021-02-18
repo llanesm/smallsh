@@ -2,6 +2,7 @@
 OSU CS344 Operating Systems project
 
 Compiled with: $ gcc -std=gnu99 -o smallsh smallsh.c
+
 For running with grading script, with file in same directory: $ ./p3testscript 2>&1
 
 Required Program Functionality
